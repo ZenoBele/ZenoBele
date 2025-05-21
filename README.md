@@ -23,9 +23,9 @@ I’m currently a UNISA student online, and a self-taught front-end developer bu
 
 ### 🔧 Projects Coming Soon
 - Top Student Coming Soon
-- **[Responsive Email Template](https://github.com/ZenoBele/responsive-email-template)**  
+- **[Responsive Email Template](https://zenobele.github.io/responsive-email-template/)**  
   Mobile-friendly email template built with HTML and CSS
-- **[HTML/CSS Portfolio Site](https://github.com/YOURUSERNAME/zeno-portfolio)**  
+- **[HTML/CSS Portfolio Site](https://zenobele.github.io/zeno-portfolio/)**  
   Mobile-friendly portfolio template built with HTM, CSS, and JS.
 
 ---
