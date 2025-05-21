@@ -31,6 +31,6 @@ I’m currently a UNISA student online, and a self-taught front-end developer bu
 ---
 
 ### 📫 Lets connect
-- Email: [E-mail me](mailto:belevhulenda57@gmail.com)
+- Email: [Me](mailto:belevhulenda57@gmail.com)
 - GitHub: [https://github.com/ZenoBele](https://github.com/ZenoBele)
 - Contact: (+27)712128965
