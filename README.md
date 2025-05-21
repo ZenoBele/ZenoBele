@@ -6,9 +6,11 @@ I’m currently a UNISA student online, and a self-taught front-end developer bu
 
 ### 🚀 Skills
 - HTML5, CSS3, Tailwind CSS
-- JavaScript (basic), Git & GitHub
+- JavaScript (basic)
 - Firebase (Firestore & Auth)
-- Responsive Web Design, Figma
+- Responsive Design & Accessibility
+- Git & GitHub
+- Figma & Email Design
 
 ---
 
@@ -20,13 +22,15 @@ I’m currently a UNISA student online, and a self-taught front-end developer bu
 ---
 
 ### 🔧 Projects Coming Soon
-- Top Student (Education Platform)
-- Responsive Email Template
-- HTML/CSS Portfolio Site
+- Top Student Coming Soon
+- **[Responsive Email Template](https://github.com/ZenoBele/responsive-email-template)**  
+  Mobile-friendly email template built with HTML and CSS
+- **[HTML/CSS Portfolio Site](https://github.com/YOURUSERNAME/zeno-portfolio)**  
+  Mobile-friendly portfolio template built with HTM, CSS, and JS.
 
 ---
 
-### 📫 Contact Me
+### 📫 Lets connect
 - Email: [your@email.com](mailto:belevhulenda57@gmail.com)
 - GitHub: [https://github.com/ZenoBele](https://github.com/ZenoBele)
 - Contact: (+27)712128965
