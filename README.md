@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Zeno Bell 👋  
+**Front-End Developer** from South Africa 🇿🇦  
+Currently building **Top Student**, an academic platform to help learners succeed.
+I’m currently a UNISA student online, and a self-taught front-end developer building an educational platform called **Top Student**.
+---
 
-<!--
-**ZenoBele/ZenoBele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Skills
+- HTML5, CSS3, Tailwind CSS
+- JavaScript (basic), Git & GitHub
+- Firebase (Firestore & Auth)
+- Responsive Web Design, Figma
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Web Accessibility (WCAG)
+- MJML (for email templates)
+- SEO fundamentals
+
+---
+
+### 🔧 Projects Coming Soon
+- Top Student (Education Platform)
+- Responsive Email Template
+- HTML/CSS Portfolio Site
+
+---
+
+### 📫 Contact Me
+- Email: [your@email.com](mailto:belevhulenda57@gmail.com)
+- GitHub: [https://github.com/ZenoBele](https://github.com/ZenoBele)
+- Contact: (+27)712128965
