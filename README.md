@@ -1,7 +1,7 @@
 # Hi, I'm Zeno Bell 👋  
 **Front-End Developer** from South Africa 🇿🇦  
 Currently building **Top Student**, an academic platform to help learners succeed.
-I’m currently a UNISA student online, and a self-taught front-end developer building an educational platform called **Top Student**.
+I’m self-taught front-end developer building an educational platform called **Top Student**.
 ---
 
 ### 🚀 Skills
